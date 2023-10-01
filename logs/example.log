@@ -1,0 +1,9 @@
+2023-10-01 13:19:23 CREATE File './source/ok.txt' from source created into replica './replica/./ok.txt'
+2023-10-01 13:19:33 DELETE File deleted fom 'ok.txt' that doesn't exist in source
+2023-10-01 13:19:48 CREATE Folder created in './replica/main' to sync source
+2023-10-01 13:19:58 CREATE File './source/main/ok.txt' from source created into replica './replica/main/ok.txt'
+2023-10-01 13:20:05 COPY Contents of file './source/main/ok.txt' from source copied to replica './replica/main/ok.txt'
+2023-10-01 13:20:18 CREATE Folder created in './replica/main/main' to sync source
+2023-10-01 13:20:26 DELETE Folder deleted fom './replica/main' that doesn't exist in source
+2023-10-01 13:20:31 DELETE Folder deleted fom './replica/.' that doesn't exist in source
+2023-10-01 13:32:39 COPY Contents of file './source/example.txt' from source copied to replica './replica/./example.txt'
