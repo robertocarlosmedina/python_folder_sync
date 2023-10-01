@@ -1,0 +1,16 @@
+--------------------------------------------------
+[INFO]: Sync started at 2023-10-01 02:49:23
+[SYNC]: Contents of file './source/example.txt' from source copy to replica './replica/./example.txt'
+[INFO]: Sync completed at 2023-10-01 02:49:23
+--------------------------------------------------
+[INFO]: Sync started at 2023-10-01 02:49:31
+[SYNC]: Contents of file './source/example.txt' from source copy to replica './replica/./example.txt'
+[INFO]: Sync completed at 2023-10-01 02:49:31
+--------------------------------------------------
+[INFO]: Sync started at 2023-10-01 03:04:04
+[COPY]: Contents of file './source/example.txt' from source copy to replica './replica/./example.txt'
+[INFO]: Sync completed at 2023-10-01 03:04:04
+--------------------------------------------------
+[INFO]: Sync started at 2023-10-01 03:04:12
+[CREATE]: File './source/iji.or' from source created into replica './replica/./iji.or'
+[INFO]: Sync completed at 2023-10-01 03:04:12
