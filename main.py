@@ -20,8 +20,8 @@ sync_scheduler = sched.scheduler(time.time, time.sleep)
 
 def sync_folders_scheduler(source_folder: str, replica_folder: str, log_file_name: str, time_interval: int):
     FolderSynchronizer.sync_folders(
-        source_folder_path=source_folder, 
-        replica_folder_path=replica_folder, 
+        source_folder_path=source_folder,
+        replica_folder_path=replica_folder,
         log_file_name=log_file_name)
 
     sync_scheduler.enter(
